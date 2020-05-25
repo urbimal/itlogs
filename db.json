@@ -1,0 +1,20 @@
+{
+  "logs": [],
+  "techs": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": "2",
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "fisrtName": "Silvia",
+      "lastName": "Anderson",
+      "id": "4"
+    }
+  ]
+}
